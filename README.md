@@ -6,4 +6,4 @@ When the underlying network connecting a client and server drops some packets fo
 The article provides an insight into TCP State transtions. The digrams for TCP State transitions are
 available in file **EL-TCP-State-Transitions.pdf**.
 
-The discussion is divided into two parts; ***TCP transition in conection setup phase***, and ***TCP Transition in teardown phase***. During the data trasnfer phase TCP remains in a single state known as ###ESTABLISHED###.
+The discussion is divided into two parts; ***TCP transition in conection setup phase***, and ***TCP Transition in teardown phase***. During the data trasnfer phase TCP remains in a single state known as ***ESTABLISHED***.
